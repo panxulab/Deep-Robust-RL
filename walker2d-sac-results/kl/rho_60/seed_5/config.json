@@ -1,0 +1,6 @@
+{
+  "algorithm": "kl",
+  "cublas_workspace_config": ":4096:8",
+  "rho": 60.0,
+  "seed": 5
+}
