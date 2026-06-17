@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+slurm-logs/
+results/
+walker2d-sac-results/
+walker2d-sac-results.zip
+.venv/
